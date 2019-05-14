@@ -1,0 +1,73 @@
+Box Size is: (43.5070567979, 43.5070567979, 43.5070567979)
+Non AdResS Nodes DD!
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+Size Lenghts are eq!
+your NodeGrid is (4, 2, 2)
+Current NodeGrid (4, 2, 2)
+Your subscribed Neigh List IS: [0, 6.5, 13.0, 19.5, 26.0]
+Your subscribed Neigh List IS: [0, 13.0, 26.0]
+Your subscribed Neigh List IS: [0, 13.0, 26.0]
+nei List x [0, 6, 13, 19, 26]
+nei List y [0, 13, 26]
+nei List z [0, 13, 26]
+PARAMETERS OF THE RUN
+---------------------
+hy3482
+infile:               /ptmp/gvargas/work/collabJSmrek/data/configurations/N70/prc_nc1000N70k1p5dT1.7t1740000.dat
+num_chains:                                1000
+monomers per chain:                          70
+temperature 2:                              1.7
+k_theta:                                    1.5
+thermostat gammas:                         10.0                          10.0
+time step:                                0.005
+fid:                  nc1000N70k1p5dT1.7       
+outpath:              /ptmp/gvargas/work/collabJSmrek/data/configurations/N70/out
+ step      T          P        Pxy          ekin         e0           e1           e2         etotal       boxL     
+    0     1.3423   6.115594   0.035395   140944.353   228110.369  1252617.567    58642.504  1680314.793  43.50705680
+ 1000     1.3555   6.140104   0.040555   142331.759   228618.204  1253517.334    58443.779  1682911.075  43.50705680
+ 2000     1.3605   6.138032   0.007735   142854.718   228226.365  1253617.219    58730.509  1683428.811  43.50705680
+ 3000     1.3535   6.146475  -0.034775   142118.887   228488.687  1253024.252    58719.952  1682351.778  43.50705680
+ 4000     1.3547   6.146708   0.053724   142241.435   228392.731  1252840.191    58635.952  1682110.309  43.50705680
+ 5000     1.3538   6.020998  -0.032956   142145.630   226744.560  1254180.631    58517.683  1681588.504  43.50705680
+ 6000     1.3552   6.152035  -0.025489   142295.220   228393.546  1252576.937    58651.082  1681916.785  43.50705680
+ 7000     1.3560   6.136783   0.041562   142381.635   228216.063  1253302.762    58729.485  1682629.945  43.50705680
+ 8000     1.3546   6.136648   0.029744   142229.595   228306.127  1253133.029    58712.759  1682381.509  43.50705680
+ 9000     1.3486   6.176745   0.002601   141599.906   228859.043  1252450.617    58872.337  1681781.903  43.50705680
+Run    time (%) = 3.545
+Pair   time (%) = 0.483 (13.624)
+FENE   time (%) = 0.194 (5.473)
+Angle  time (%) = 0.289 (8.156)
+Comm1  time (%) = 0.539 (15.203)
+Comm2  time (%) = 0.485 (13.667)
+Int1   time (%) = 0.189 (5.326)
+Int2   time (%) = 0.046 (1.309)
+Resort time (%) = 0.991 (27.952)
+Other  time (%) = 0.329 (9.290)
+
+Total # of neighbors = 490919
+Ave neighs/atom = 7.0
+Neighbor list builds = 1232
+Integration steps = 10000
+CPUs = 16 CPU time per CPU = 51.27817
+Done.
+Running time:  51.2781720161
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2664531.0:
+
+number of nodes: 1
+number of MPI tasks: 16
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 1.04 GB
+
+average CPU usage: 71.0 %
+

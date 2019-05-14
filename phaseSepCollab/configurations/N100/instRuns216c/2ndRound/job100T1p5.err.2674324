@@ -1,0 +1,6 @@
+mkdir: cannot create directory `/ptmp/gvargas/work/collabJSmrek/data/configurations/N100/out': File exists
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 158, in <module>
+    system.storage.espressopp.resetParticlesHangoverCounters()
+AttributeError: 'DomainDecomposition' object has no attribute 'espressopp'
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

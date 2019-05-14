@@ -1,0 +1,224 @@
+mkdir: cannot create directory `/ptmp/gvargas/work/collabJSmrek/data/configurations/N100/out': File exists
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 170, in <module>
+    pt2.append(espressopp.analysis.NRealPart(system).compute())
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 720, in __call__
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2Inst.py", line 2, in <module>
+    import espressopp
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/__init__.py", line 71, in <module>
+    method_self.pmiobject = create(pmiobjectclass, *args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 325, in create
+    obj = __workerCreate(cls, oid, *cargs, **ckwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    pmi.startWorkerLoop()
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    return cmd_func(*args, **kwds)
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    pmi.startWorkerLoop()
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    pmi.startWorkerLoop()
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    obj = cls(*args, **kwds)
+    receive()
+    pmi.startWorkerLoop()
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    return cmd_func(*args, **kwds)
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    pmi.startWorkerLoop()
+    pmi.startWorkerLoop()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 664, in startWorkerLoop
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    receive()
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 892, in receive
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    return cmd_func(*args, **kwds)
+    return cmd_func(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/pmi.py", line 343, in __workerCreate
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    obj = cls(*args, **kwds)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16JuneInst/espressopp/analysis/NRealPart.py", line 38, in __init__
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+    cxxinit(self, analysis_NPart, system)
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+NameError: global name 'analysis_NPart' is not defined
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+    cxxinit(self, analysis_NPart, system)
+NameError: global name 'analysis_NPart' is not defined
+NameError: global name 'analysis_NPart' is not defined
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

@@ -1,0 +1,16 @@
+# This is a convenience script to determine which
+# type of shell you have 
+
+# only csh/tcsh understand 'set'
+set is_csh = 123
+test "$is_csh" = 123 && goto CSH
+
+export PYTHONPATH="/data/isilon/vargas/phaseSep/e++ShWallsInst201606:/data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib${PYTHONPATH:+:}${PYTHONPATH}"
+return
+
+CSH:
+if ($?PYTHONPATH) then
+  setenv PYTHONPATH "/data/isilon/vargas/phaseSep/e++ShWallsInst201606:/data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib:$PYTHONPATH"
+else
+  setenv PYTHONPATH "/data/isilon/vargas/phaseSep/e++ShWallsInst201606:/data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib"
+endif

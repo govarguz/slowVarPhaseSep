@@ -1,0 +1,6 @@
+mkdir: cannot create directory `/ptmp/gvargas/work/collabJSmrek/data/configurations/N70/out': File exists
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 49, in <module>
+    neiListx,neiListy,neiListz=decomp.neiListHom(nodeGrid,box,rc,skin)
+AttributeError: 'module' object has no attribute 'neiListHom'
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

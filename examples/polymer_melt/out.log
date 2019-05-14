@@ -1,0 +1,41 @@
+ESPResSo++ v1.9 patchlevel 3, Git revision: 95100d6 (dirty), Boost Version: 1_56, compiled on Apr 22 2016, 15:11:49
+Setting up simulation ...
+total number of MPI tasks are: 8
+nodeGrid:  (2, 2, 2)  cellGrid:  (7, 23, 23)  NeiList:  [0, 7, 23]
+
+number of particles =  40000
+density             =  0.850000714752
+rc                  =  1.12246204831
+dt                  =  0.005
+skin                =  0.4
+temperature         =  1.0
+nsteps              =  1
+isteps              =  100
+NodeGrid            =  (2, 2, 2)
+CellGrid            =  (7, 7, 7)
+
+ step      T          P        Pxy          ekin         e0           e1         etotal       boxL     
+    0     0.0000   4.086273   0.017958        0.000    37081.234   722365.068   759446.302  36.10330000
+  100     0.6718   3.339981   0.001912    40309.173    28223.643   720631.816   789164.632  36.10330000
+  100     0.6718   3.339981   0.001912    40309.173    28223.643   720631.816   789164.632  36.10330000
+Run    time (%) = 1.933
+Pair   time (%) = 0.109 (5.634)
+FENE   time (%) = 0.029 (1.492)
+Angle  time (%) = 0.000 (0.000)
+Comm1  time (%) = 0.328 (16.982)
+Comm2  time (%) = 0.807 (41.766)
+Int1   time (%) = 0.183 (9.447)
+Int2   time (%) = 0.009 (0.444)
+Resort time (%) = 0.365 (18.889)
+Other  time (%) = 0.103 (5.346)
+
+Total # of neighbors = 238565
+Ave neighs/atom = 6.0
+Neighbor list builds = 11
+Integration steps = 100
+CPUs = 8 CPU time per CPU = 0.97442
+The first system finished NOW comes Tha Magic
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------

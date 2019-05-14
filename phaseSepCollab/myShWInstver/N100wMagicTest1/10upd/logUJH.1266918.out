@@ -1,0 +1,583 @@
+/opt/SGE/THINCC1/spool/thinc101/active_jobs/1266918.1/pe_hostfile
+thinc101
+thinc101
+thinc101
+thinc101
+thinc101
+thinc101
+thinc101
+thinc101
+thinc098
+thinc098
+thinc098
+thinc098
+thinc098
+thinc098
+thinc098
+thinc098
+thinc070
+thinc070
+thinc070
+thinc070
+thinc070
+thinc070
+thinc070
+thinc070
+thinc048
+thinc048
+thinc048
+thinc048
+thinc048
+thinc048
+thinc048
+thinc048
+thinc076
+thinc076
+thinc076
+thinc076
+thinc076
+thinc076
+thinc076
+thinc076
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc107
+thinc107
+thinc107
+thinc107
+thinc107
+thinc107
+thinc107
+thinc107
+thinc066
+thinc066
+thinc066
+thinc066
+thinc066
+thinc066
+thinc066
+thinc066
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+        import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+        import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+import espressopp
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+Traceback (most recent call last):
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import mpi4py.MPI as MPI
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+    import mpi4py.MPI as MPI
+ImportError    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+        import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+import mpi4py.MPI as MPI
+    import mpi4py.MPI as MPI
+ImportError    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+ImportError: : /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t/data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import mpi4py.MPI as MPI
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+    import mpi4py.MPI as MPI
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+        from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v4Inst.py", line 2, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import espressopp
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/__init__.py", line 23, in <module>
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    from espressopp.main._setup import *
+  File "/data/isilon/vargas/phaseSep/e++ShWallsInst201606/espressopp/main/_setup.py", line 24, in <module>
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+    import mpi4py.MPI as MPI
+ImportError: /data/isilon/vargas/phaseSep/e++ShWallsInst201606/contrib/mpi4py/MPI.so: undefined symbol: ompi_mpi_int16_t
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+/opt/SGE/THINCC1/spool/thinc101/job_scripts/1266918: line 17: /people/thnfs/homes/vargas: Is a directory
+rm: cannot remove ‘/tmp/1266918.1.Parallel.q/rsh’: No such file or directory

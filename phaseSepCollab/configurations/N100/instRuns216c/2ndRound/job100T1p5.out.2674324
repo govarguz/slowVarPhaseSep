@@ -1,0 +1,67 @@
+Box Size is: (48.999730503, 48.999730503, 48.999730503)
+Non AdResS Nodes DD!
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+Size Lenghts are eq!
+your NodeGrid is (6, 6, 6)
+Current NodeGrid (6, 6, 6)
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+nei List x [0, 5, 10, 15, 20, 25, 30]
+nei List y [0, 5, 10, 15, 20, 25, 30]
+nei List z [0, 5, 10, 15, 20, 25, 30]
+PARAMETERS OF THE RUN
+---------------------
+hy0386
+infile:               /ptmp/gvargas/work/collabJSmrek/data/configurations/N100/prc_nc1000N100k1p5dT1.5t3320000.dat
+num_chains:                                1000
+monomers per chain:                         100
+temperature 2:                              1.5
+k_theta:                                    1.5
+thermostat gammas:                         10.0                          10.0
+time step:                                0.005
+fid:                  nc1000N100k1p5dT1.5      
+outpath:              /ptmp/gvargas/work/collabJSmrek/data/configurations/N100/out
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2674324.0:
+
+number of nodes: 12
+number of MPI tasks: 216
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 10.27 GB
+maximum memory per node: 0.91 GB
+minimum memory per node: 0.84 GB
+average memory per node: 0.86 GB
+
+average CPU usage: 54.3 %
+

@@ -1,0 +1,8 @@
+mkdir: cannot create directory `/ptmp/gvargas/work/collabJSmrek/data/configurations/k1p5/N70/': No such file or directory
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 37, in <module>
+    pidf, typef, xposf, yposf, zposf, xvelf, yvelf, zvelf, Lxf, Lyf, Lzf = espressopp.tools.readxyz(inconffile)
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/tools/DumpConfigurations.py", line 96, in readxyz
+    file = open(filename)
+IOError: [Errno 2] No such file or directory: '/ptmp/gvargas/work/collabJSmrek/data/configurations/k1p5/N70/prc_nc1000N70k1p5dT1.7t1740000.dat'
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

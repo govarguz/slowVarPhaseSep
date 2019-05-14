@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 8, in <module>
+    num_chains = int(sys.argv[1])
+IndexError: list index out of range
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

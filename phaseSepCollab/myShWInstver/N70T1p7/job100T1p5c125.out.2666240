@@ -1,0 +1,53 @@
+Box Size is: (43.5070567979, 43.5070567979, 43.5070567979)
+Non AdResS Nodes DD!
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+Size Lenghts are eq!
+your NodeGrid is (8, 4, 4)
+Current NodeGrid (8, 4, 4)
+Your subscribed Neigh List IS: [0, 3.25, 6.5, 9.75, 13.0, 16.25, 19.5, 22.75, 26.0]
+Your subscribed Neigh List IS: [0, 6.5, 13.0, 19.5, 26.0]
+Your subscribed Neigh List IS: [0, 6.5, 13.0, 19.5, 26.0]
+nei List x [0, 3, 6, 9, 13, 16, 19, 22, 26]
+nei List y [0, 6, 13, 19, 26]
+nei List z [0, 6, 13, 19, 26]
+PARAMETERS OF THE RUN
+---------------------
+hy4324
+infile:               /ptmp/gvargas/work/collabJSmrek/data/configurations/N70/prc_nc1000N70k1p5dT1.7t1740000.dat
+num_chains:                                1000
+monomers per chain:                          70
+temperature 2:                              1.7
+k_theta:                                    1.5
+thermostat gammas:                         10.0                          10.0
+time step:                                0.005
+fid:                  nc1000N70k1p5dT1.7       
+outpath:              /ptmp/gvargas/work/collabJSmrek/data/configurations/N70/out
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2666240.0:
+
+number of nodes: 8
+number of MPI tasks: 128
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 5.77 GB
+maximum memory per node: 0.76 GB
+minimum memory per node: 0.71 GB
+average memory per node: 0.72 GB
+
+average CPU usage: 17.6 %
+

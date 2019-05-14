@@ -1,0 +1,886 @@
+/opt/SGE/THINCC1/spool/thinc050/active_jobs/1099277.1/pe_hostfile
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc104
+thinc104
+thinc104
+thinc104
+thinc104
+thinc104
+thinc104
+thinc104
+thinc084
+thinc084
+thinc084
+thinc084
+thinc084
+thinc084
+thinc084
+thinc084
+thinc078
+thinc078
+thinc078
+thinc078
+thinc078
+thinc078
+thinc078
+thinc078
+thinc062
+thinc062
+thinc062
+thinc062
+thinc062
+thinc062
+thinc062
+thinc062
+thinc060
+thinc060
+thinc060
+thinc060
+thinc060
+thinc060
+thinc060
+thinc060
+thinc100
+thinc100
+thinc100
+thinc100
+thinc100
+thinc100
+thinc100
+thinc100
+thinc081
+thinc081
+thinc081
+thinc081
+thinc081
+thinc081
+thinc081
+thinc081
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+    from espresso import pmi
+ImportError:     from espresso import pmi
+ImportError: No module named espresso
+ImportError: No module named espresso
+No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+        from espresso import pmi
+ImportError: No module named espresso
+from espresso import pmi
+ImportError: No module named espresso
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    import espressopp
+    from espresso import pmi
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+    from espresso import pmi
+ImportErrorImportError: No module named espresso
+ImportError: No module named espresso
+: No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+        import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+ImportError: No module named espresso
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+        import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+from espresso import pmi
+ImportError:     from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+from espresso import pmi
+ImportErrorNo module named espresso
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+        from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError:     from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+: No module named espresso
+No module named espresso
+    from espresso import pmi
+ImportError:     from espresso import pmi
+ImportError: No module named espresso
+    No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+from espresso import pmi
+ImportError    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+: No module named espresso
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+        from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+    from espresso import pmi
+ImportError:     from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+    from espresso import pmi
+ImportError: No module named espresso
+ImportError: No module named espresso
+    from espresso import pmi
+    from espresso import pmi
+ImportError: No module named espresso
+ImportError: No module named espresso
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espresso import pmi
+ImportError    from espressopp.storage.DomainDecompositionAdress import *
+: No module named espresso
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    import espressopp
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+ImportError    import espressopp
+    from espresso import pmi
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+: No module named espresso
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espresso import pmi
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+ImportError: No module named espresso
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espresso import pmi
+ImportError:     from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+ImportError: No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+No module named espresso
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+        from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+    from espressopp.storage.DomainDecompositionAdress import *
+ImportError: No module named espresso
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+    from espresso import pmi
+ImportError:   File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+        from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+from espresso import pmi
+ImportError: No module named espresso
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+        import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+        from espresso import pmi
+    from espresso import pmi
+ImportError    from espresso import pmi
+ImportError: No module named espresso    from espresso import pmi
+ImportError: No module named espresso
+: No module named espresso
+
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+ImportError: No module named espresso
+from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError    from espresso import pmi
+ImportError: No module named espresso
+: No module named espresso
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError    from espresso import pmi
+ImportError: No module named espresso
+: No module named espresso
+        from espresso import pmi
+ImportError: No module named espresso
+from espresso import pmi
+ImportError: No module named espresso
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError: No module named espresso
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+  File "polymer_meltPoC80.py", line 11, in <module>
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+        from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+    from espresso import pmi
+ImportError    from espresso import pmi
+ImportError:     from espresso import pmi
+ImportError: No module named espresso    from espresso import pmi
+No module named espresso
+    from espresso import pmi
+ImportError: 
+ImportError: No module named espresso
+: No module named espresso
+No module named espresso
+    from espresso import pmi
+    from espresso import pmi
+ImportError: ImportError: No module named espressoNo module named espresso
+
+Traceback (most recent call last):
+  File "polymer_meltPoC80.py", line 11, in <module>
+    import espressopp
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/__init__.py", line 64, in <module>
+    from espressopp import esutil, bc, storage, integrator, interaction, analysis, tools, standard_system, external, check, io
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/__init__.py", line 28, in <module>
+    from espressopp.storage.DomainDecompositionAdress import *
+  File "/home/theorie/vargas/espressopp2/espMPItest62k15/espressopp/storage/DomainDecompositionAdress.py", line 39, in <module>
+    from espresso import pmi
+ImportError: No module named espresso
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
+rm: cannot remove ‘/tmp/1099277.1.Parallel.q/rsh’: No such file or directory

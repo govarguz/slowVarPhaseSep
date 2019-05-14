@@ -1,0 +1,96 @@
+Box Size is: (48.999730503, 48.999730503, 48.999730503)
+Non AdResS Nodes DD!
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+Size Lenghts are eq!
+your NodeGrid is (6, 6, 6)
+Current NodeGrid (6, 6, 6)
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+Your subscribed Neigh List IS: [0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0]
+nei List x [0, 5, 10, 15, 20, 25, 30]
+nei List y [0, 5, 10, 15, 20, 25, 30]
+nei List z [0, 5, 10, 15, 20, 25, 30]
+PARAMETERS OF THE RUN
+---------------------
+hy0460
+infile:               /ptmp/gvargas/work/collabJSmrek/data/configurations/N100/prc_nc1000N100k1p5dT1.4t4410000.dat
+num_chains:                                1000
+monomers per chain:                         100
+temperature 2:                              1.4
+k_theta:                                    1.5
+thermostat gammas:                         10.0                          10.0
+time step:                                0.005
+fid:                  nc1000N100k1p5dT1.4      
+outpath:              /ptmp/gvargas/work/collabJSmrek/data/configurations/N100/out
+ step      T          P        Pxy          ekin         e0           e1           e2         etotal       boxL     
+    0     1.1953   5.642998   0.046680   179298.718   318744.960  1793043.582    82043.645  2373130.906  48.99973050
+ 1000     1.2055   5.716355   0.007227   180830.084   319913.241  1792264.399    81944.721  2374952.444  48.99973050
+ 2000     1.2028   5.686520   0.022620   180416.806   319337.059  1792085.252    82042.910  2373882.028  48.99973050
+ 3000     1.1979   5.607861   0.021755   179686.510   317828.810  1793476.913    81963.553  2372955.787  48.99973050
+ 4000     1.2025   5.696639  -0.020463   180368.345   319551.935  1792328.934    81990.544  2374239.758  48.99973050
+ 5000     1.2011   5.691784  -0.001684   180168.908   319335.200  1792071.373    81890.834  2373466.315  48.99973050
+ 6000     1.2036   5.645792  -0.038927   180546.483   318455.481  1792874.205    81973.586  2373849.754  48.99973050
+ 7000     1.1999   5.620885  -0.000791   179990.777   318044.836  1792998.312    82286.714  2373320.640  48.99973050
+ 8000     1.2024   5.678266   0.003428   180360.307   319195.636  1792274.073    82028.829  2373858.846  48.99973050
+ 9000     1.2046   5.659774  -0.035081   180687.472   318633.222  1792434.444    81923.593  2373678.730  48.99973050
+Run    time (%) = 0.840
+Pair   time (%) = 0.053 (6.308)
+FENE   time (%) = 0.023 (2.753)
+Angle  time (%) = 0.038 (4.531)
+Comm1  time (%) = 0.176 (20.914)
+Comm2  time (%) = 0.200 (23.807)
+Int1   time (%) = 0.093 (11.092)
+Int2   time (%) = 0.004 (0.468)
+Resort time (%) = 0.212 (25.184)
+Other  time (%) = 0.042 (4.944)
+
+Total # of neighbors = 702559
+Ave neighs/atom = 7.0
+Neighbor list builds = 1119
+Integration steps = 10000
+CPUs = 216 CPU time per CPU = 1131.46799
+Done HAVG.
+Running time:  1131.46798897
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2676905.0:
+
+number of nodes: 12
+number of MPI tasks: 216
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 11.74 GB
+maximum memory per node: 1.29 GB
+minimum memory per node: 0.94 GB
+average memory per node: 0.98 GB
+
+average CPU usage: 97.7 %
+

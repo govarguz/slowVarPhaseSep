@@ -1,0 +1,305 @@
+#!/usr/bin/env python                                                               
+# -*- coding: iso-8859-1 -*-                                                        
+
+###########################################################################
+#                                                                         #
+#  ESPResSo++ Benchmark Python script for a Lennard Jones System          #
+#                                                                         #
+###########################################################################
+
+import time,sys
+import espressopp
+
+nsteps      = 1
+isteps      = 100
+rc          = pow(2.0, 1.0/6.0)
+skin        = 0.4
+timestep    = 0.005
+
+# set temperature to None for NVE-simulations
+temperature = 1.0
+
+######################################################################
+### IT SHOULD BE UNNECESSARY TO MAKE MODIFICATIONS BELOW THIS LINE ###
+######################################################################
+print espressopp.Version().info()
+print 'Setting up simulation ...'
+bonds, angles, x, y, z, Lx, Ly, Lz = espressopp.tools.convert.lammps.read('polymer_melt.lammps')
+bonds, angles, x, y, z, Lx, Ly, Lz = espressopp.tools.replicate(bonds, angles, x, y, z, Lx, Ly, Lz, xdim=1, ydim=1, zdim=1)
+num_particles = len(x)
+density = num_particles / (Lx * Ly * Lz)
+box = (Lx, Ly, Lz)
+
+######################################################################
+# Defining communicators ( H's hack )
+######################################################################
+ncores= espressopp.pmi.size
+print "total number of MPI tasks are:",ncores
+
+#comm=espressopp.pmi.Communicator([0,1,2,3,4,5,6,7])  # use smth like range(8)
+
+#espressopp.pmi.activate(comm)
+
+
+#  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---
+######################################################################
+
+#system, integrator = espressopp.standard_system.Default(box=box, rc=rc, skin=skin, dt=timestep, temperature=temperature)
+system         = espressopp.System()
+system.rng     = espressopp.esutil.RNG()
+system.bc      = espressopp.bc.OrthorhombicBC(system.rng, box)
+system.skin    = skin
+nodeGrid=espressopp.Int3D(2,2,2)
+cellGrid=espressopp.Int3D(7,23,23)
+neiListx=[0,7,23]
+#neiListx=[0,2,4,7,10,13,16,19,23]
+neiListy=[0,7,23] # worked also with [0,23,23] for 2 cores
+neiListz=[0,7,23] # worked also with [0,23,23] for 2 cores
+system.storage = espressopp.storage.DomainDecomposition(system, nodeGrid, cellGrid, neiListx, neiListy, neiListz)
+print "nodeGrid: ",nodeGrid, " cellGrid: ",cellGrid, " NeiList: ",neiListx
+integrator     = espressopp.integrator.VelocityVerlet(system)  
+integrator.dt  = timestep
+if (temperature != None):
+  thermostat             = espressopp.integrator.LangevinThermostat(system)
+  thermostat.gamma       = 1.0
+  thermostat.temperature = temperature
+  integrator.addExtension(thermostat)
+
+# add particles to the system and then decompose
+# do this in chunks of 1000 particles to speed it up
+props = ['id', 'type', 'mass', 'pos']
+new_particles = []
+for i in range(num_particles):
+  part = [i + 1, 0, 1.0, espressopp.Real3D(x[i], y[i], z[i])]
+  new_particles.append(part)
+  if i % 1000 == 0:
+    system.storage.addParticles(new_particles, *props)
+    system.storage.decompose()
+    new_particles = []
+system.storage.addParticles(new_particles, *props)
+system.storage.decompose()
+
+# Lennard-Jones with Verlet list
+vl      = espressopp.VerletList(system, cutoff = rc)
+potLJ   = espressopp.interaction.LennardJones(epsilon=1.0, sigma=1.0, cutoff=rc, shift=0)
+interLJ = espressopp.interaction.VerletListLennardJones(vl)
+interLJ.setPotential(type1=0, type2=0, potential=potLJ)
+system.addInteraction(interLJ)
+
+# FENE bonds
+fpl = espressopp.FixedPairList(system.storage)
+fpl.addBonds(bonds)
+potFENE = espressopp.interaction.FENE(K=30.0, r0=0.0, rMax=1.5)
+interFENE = espressopp.interaction.FixedPairListFENE(system, fpl, potFENE)
+system.addInteraction(interFENE)
+
+# Cosine with FixedTriple list
+ftl = espressopp.FixedTripleList(system.storage)
+ftl.addTriples(angles)
+potCosine = espressopp.interaction.Cosine(K=1.5, theta0=3.1415926)
+interCosine = espressopp.interaction.FixedTripleListCosine(system, ftl, potCosine)
+system.addInteraction(interCosine)
+
+# print simulation parameters
+print ''
+print 'number of particles = ', num_particles
+print 'density             = ', density
+print 'rc                  = ', rc
+print 'dt                  = ', integrator.dt
+print 'skin                = ', system.skin
+print 'temperature         = ', temperature
+print 'nsteps              = ', nsteps
+print 'isteps              = ', isteps
+print 'NodeGrid            = ', system.storage.getNodeGrid()
+print 'CellGrid            = ', system.storage.getCellGrid()
+print ''
+
+# espressopp.tools.decomp.tuneSkin(system, integrator)
+
+espressopp.tools.analyse.info(system, integrator)
+start_time = time.clock()
+for k in range(nsteps):
+  integrator.run(isteps)
+  espressopp.tools.analyse.info(system, integrator)
+  espressopp.tools.fastwritexyz('DynLoadBal_v1.xyz', system, velocities = True, unfolded = True, append = False)
+end_time = time.clock()
+espressopp.tools.analyse.info(system, integrator)
+espressopp.tools.analyse.final_info(system, integrator, vl, start_time, end_time)
+
+print "The first system finished NOW comes Tha Magic"
+
+#####   Deleting actual integrator   #####
+
+######################################################################
+# Deactivate the first communicator
+######################################################################
+
+#espressopp.pmi.deactivate(comm)
+
+#espressopp.pmi.finalizeWorkers()
+
+#  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---
+######################################################################
+#fpl = espressopp.FixedPairList(system.storage)
+#system.getInteraction(1).setFixedPairList(fpl)
+#ftl = espressopp.FixedTripleList(system.storage)
+#system.getInteraction(2).setFixedTripleList(ftl)
+#system.removeInteraction(2)
+#system.removeInteraction(1)
+#system.removeInteraction(0)
+
+system.getInteraction(1).getFixedPairList().remove()
+system.getInteraction(2).getFixedTripleList().remove()
+system.storage.removeAllParticles()
+#espressopp.pmi.exec_('del system')
+#espressopp.pmi.exec_('del integrator')
+#del part
+# Brute force
+
+
+
+
+#del espressopp
+
+
+####
+
+#import espressopp
+
+
+pidf, typef, x, y, z, vx, vy, vz, Lx, Ly, Lz = espressopp.tools.readxyz('DynLoadBal_v1.xyz')
+
+num_particles = len(x)
+density = num_particles / (Lx * Ly * Lz)
+box = (Lx, Ly, Lz)
+#system, integrator = espressopp.standard_system.Default(box=box, rc=rc, skin=skin, dt=timestep, temperature=temperature)
+
+######################################################################
+# Defining communicators ( H's hack )
+######################################################################
+ncores= espressopp.pmi.size
+print "total number of MPI tasks are 2nd Round:",ncores
+
+#comm2=espressopp.pmi.Communicator([0,1,2,3,4,5,6,7])  # use smth like range(8)
+
+#espressopp.pmi.activate(comm2)
+
+
+#  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---
+######################################################################
+
+
+system2         = espressopp.System()
+system2.rng     = espressopp.esutil.RNG()
+system2.bc      = espressopp.bc.OrthorhombicBC(system2.rng, box)
+system2.skin    = skin
+nodeGrid=espressopp.Int3D(2,2,2)
+cellGrid=espressopp.Int3D(10,23,23)
+neiListx=[0,10,23]
+#neiListx=[0,2,4,7,10,13,16,19,23]
+neiListy=[0,10,23] # worked also with [0,23,23] for 2 cores
+neiListz=[0,10,23] # worked also with [0,23,23] for 2 cores
+system2.storage = espressopp.storage.DomainDecomposition(system2, nodeGrid, cellGrid, neiListx, neiListy, neiListz)
+print "nodeGrid: ",nodeGrid, " cellGrid: ",cellGrid, " NeiList: ",neiListx
+integrator     = espressopp.integrator.VelocityVerlet(system2)  
+integrator.dt  = timestep
+if (temperature != None):
+  thermostat             = espressopp.integrator.LangevinThermostat(system2)
+  thermostat.gamma       = 1.0
+  thermostat.temperature = temperature
+  integrator.addExtension(thermostat)
+
+# add particles to the system and then decompose
+# do this in chunks of 1000 particles to speed it up
+props2 = ['id', 'type', 'mass', 'pos', 'v']
+bondlist = espressopp.FixedPairList(system2.storage)
+anglelist = espressopp.FixedTripleList(system2.storage)
+new_particles = []
+num_chains=200
+N_chains=num_chains
+monomers_per_chain=200
+N_chainlength= monomers_per_chain
+mass=1.0
+chtype= 0
+for i in range(num_chains):
+  chain=[]
+  bonds=[]
+  angles=[]
+  for k in range(monomers_per_chain):
+    idx=i*monomers_per_chain+k
+    part= [pidf[idx], chtype, mass, espressopp.Real3D(x[idx], y[idx], z[idx]),espressopp.Real3D(vx[idx], vy[idx], vz[idx])]
+    chain.append(part)
+    # print "Test 0",i,k
+    if k>0:
+      bonds.append((pidf[idx-1],pidf[idx]))
+    if k>1:
+      angles.append(((pidf[idx-2], pidf[idx-1], pidf[idx])))
+  system2.storage.addParticles(chain, *props2)
+  system2.storage.decompose()
+  bondlist.addBonds(bonds)
+  anglelist.addTriples(angles)
+
+# Lennard-Jones with Verlet list
+vl      = espressopp.VerletList(system2, cutoff = rc)
+potLJ   = espressopp.interaction.LennardJones(epsilon=1.0, sigma=1.0, cutoff=rc, shift=0)
+interLJ = espressopp.interaction.VerletListLennardJones(vl)
+interLJ.setPotential(type1=0, type2=0, potential=potLJ)
+system2.addInteraction(interLJ)
+
+# print "TESTEO 1"
+
+# FENE bonds
+#fpl = espressopp.FixedPairList(system.storage)
+#fpl.addBonds(bonds)
+potFENE = espressopp.interaction.FENE(K=30.0, r0=0.0, rMax=1.5)
+interFENE = espressopp.interaction.FixedPairListFENE(system2, bondlist, potFENE)
+system2.addInteraction(interFENE)
+
+# print "TESTEO 2"
+
+# Cosine with FixedTriple list
+#ftl = espressopp.FixedTripleList(system.storage)
+#ftl.addTriples(angles)
+potCosine = espressopp.interaction.Cosine(K=1.5, theta0=3.1415926)
+interCosine = espressopp.interaction.FixedTripleListCosine(system2, anglelist, potCosine)
+system2.addInteraction(interCosine)
+
+# print simulation parameters
+print ''
+print 'number of particles = ', num_particles
+print 'density             = ', density
+print 'rc                  = ', rc
+print 'dt                  = ', integrator.dt
+print 'skin                = ', system2.skin
+print 'temperature         = ', temperature
+print 'nsteps              = ', nsteps
+print 'isteps              = ', isteps
+print 'NodeGrid            = ', system2.storage.getNodeGrid()
+print 'CellGrid            = ', system2.storage.getCellGrid()
+print ''
+
+# espressopp.tools.decomp.tuneSkin(system, integrator)
+
+espressopp.tools.analyse.info(system2, integrator)
+start_time = time.clock()
+for k in range(nsteps):
+  integrator.run(isteps)
+  espressopp.tools.analyse.info(system2, integrator)
+  espressopp.tools.fastwritexyz('DynLoadBal_v2.xyz', system2, velocities = True, unfolded = True, append = False)
+end_time = time.clock()
+espressopp.tools.analyse.info(system2, integrator)
+espressopp.tools.analyse.final_info(system2, integrator, vl, start_time, end_time)
+
+#####   Deleting actual integrator   #####
+
+######################################################################
+# Deactivate the first communicator
+######################################################################
+
+# espressopp.pmi.deactivate(comm2)
+
+#  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---  #  ---
+######################################################################
+
+
+

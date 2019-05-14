@@ -1,0 +1,129 @@
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+Traceback (most recent call last):
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/__init__.py", line 23, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    from espressopp.main._setup import *
+  File "/ptmp/gvargas/work/collabJSmrek/e++ShWalls2Therms2k16June/espressopp/main/_setup.py", line 26, in <module>
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+    import _espressopp
+ImportError: No module named _espressopp
+ImportError: No module named _espressopp
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 0

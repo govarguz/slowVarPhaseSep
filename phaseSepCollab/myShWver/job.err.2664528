@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "2tmf_v2.py", line 2, in <module>
+    import espressopp
+ImportError: No module named espressopp
+ERROR: 0031-300  Forcing all remote tasks to exit due to exit code 1 in task 2
+ERROR: 0031-250  task 10: Terminated
+ERROR: 0031-250  task 11: Terminated
+ERROR: 0031-250  task 12: Terminated
+ERROR: 0031-250  task 13: Terminated
+ERROR: 0031-250  task 14: Terminated
+ERROR: 0031-250  task 15: Terminated
+ERROR: 0031-250  task 9: Terminated
+ERROR: 0031-250  task 5: Terminated
+ERROR: 0031-250  task 7: Terminated
+ERROR: 0031-250  task 0: Terminated
+ERROR: 0031-250  task 6: Terminated
+ERROR: 0031-250  task 1: Terminated
+ERROR: 0031-250  task 3: Terminated
+ERROR: 0031-250  task 4: Terminated
+ERROR: 0031-250  task 8: Terminated

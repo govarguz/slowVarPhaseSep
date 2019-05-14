@@ -1,0 +1,41 @@
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Box Size is: (43.5070567979, 43.5070567979, 43.5070567979)
+Non AdResS Nodes DD!
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+qbicity check passed
+qbicity check passed DD-UJ
+Size Lenghts are eq!
+your NodeGrid is (4, 2, 2)
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2664504.0:
+
+number of nodes: 1
+number of MPI tasks: 16
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 0.63 GB
+
+average CPU usage: 12.1 %
+

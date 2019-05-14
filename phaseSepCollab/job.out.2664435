@@ -1,0 +1,29 @@
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+Warning: numpy module not available
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2664435.0:
+
+number of nodes: 1
+number of MPI tasks: 16
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 0.62 GB
+
+average CPU usage: 7.8 %
+

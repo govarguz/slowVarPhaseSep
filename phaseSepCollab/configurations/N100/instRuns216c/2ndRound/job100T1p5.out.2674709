@@ -1,0 +1,16 @@
+
+
+------------------------------------------------------
+Statistics for LoadLeveler job ll1-ib0.2674709.0:
+
+number of nodes: 12
+number of MPI tasks: 216
+number of OpenMP threads per task: 1
+
+memory consumption (high water mark): 9.47 GB
+maximum memory per node: 0.86 GB
+minimum memory per node: 0.78 GB
+average memory per node: 0.79 GB
+
+average CPU usage: 50.1 %
+

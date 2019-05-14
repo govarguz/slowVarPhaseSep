@@ -1,0 +1,566 @@
+/opt/SGE/THINCC1/spool/thinc071/active_jobs/1099257.1/pe_hostfile
+thinc071
+thinc071
+thinc071
+thinc071
+thinc071
+thinc071
+thinc071
+thinc071
+thinc083
+thinc083
+thinc083
+thinc083
+thinc083
+thinc083
+thinc083
+thinc083
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc050
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc075
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+thinc093
+ESPResSo++ v1.7 patchlevel 2, Boost Version: 1_53, compiled on Jun 10 2015, 12:47:30
+Setting up simulation ...
+nodeGrid:  (5, 4, 2)  cellGrid:  (18, 23, 23)  NeiList:  [0, 18, 36, 54, 72, 90]
+
+number of particles =  1280000
+density             =  0.850000714752
+rc                  =  1.12246204831
+dt                  =  0.005
+skin                =  0.4
+temperature         =  1.0
+nsteps              =  10
+isteps              =  100
+NodeGrid            =  (5, 4, 2)
+CellGrid            =  (18, 23, 23)
+
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+ step      T          P        Pxy          ekin         e0           e1           e2         etotal       boxL     
+    0     0.0000   4.086273   0.016626        0.000  1186599.482 23115682.190  1033656.154 25335937.826 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  100     0.6921   3.838422   0.002860  1328737.483  1008787.025 22964236.683   972826.907 26274588.098 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  200     0.8330   4.389668  -0.000213  1599407.601  1087200.781 23016215.738   979418.319 26682242.439 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  300     0.9076   4.657363   0.009215  1742670.271  1129253.090 23046450.048   991018.031 26909391.441 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  400     0.9492   4.801788   0.009880  1822463.269  1157311.740 23064180.858  1000294.407 27044250.275 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  500     0.9702   4.890813   0.009526  1862691.278  1171449.924 23071308.717  1007802.839 27113252.758 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  600     0.9822   4.917968   0.004343  1885761.582  1176678.845 23081703.200  1012854.188 27156997.815 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  700     0.9896   4.930295  -0.000598  1899937.865  1178276.597 23086142.944  1017664.264 27182021.670 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  800     0.9935   4.954982  -0.008984  1907473.692  1182726.802 23085878.983  1020549.754 27196629.231 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+  900     0.9953   4.982928  -0.001837  1911040.297  1189220.910 23084060.358  1022089.545 27206411.110 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+ 1000     0.9971   4.976495  -0.007394  1914458.512  1186521.943 23085748.657  1023609.876 27210338.988 144.41320000
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+Temperature calculation only correct for H-Adres, incorrect no of dof for Force-Adres
+ 1000     0.9971   4.976495  -0.007394  1914458.512  1186521.943 23085748.657  1023609.876 27210338.988 144.41320000
+Run    time (%) = 4.115
+Pair   time (%) = 0.717 (17.426)
+FENE   time (%) = 0.357 (8.678)
+Angle  time (%) = 0.485 (11.791)
+Comm1  time (%) = 0.208 (5.044)
+Comm2  time (%) = 0.386 (9.374)
+Int1   time (%) = 0.350 (8.495)
+Int2   time (%) = 0.207 (5.039)
+Resort time (%) = 0.962 (23.378)
+Other  time (%) = 0.443 (10.775)
+
+Total # of neighbors = 7586770
+Ave neighs/atom = 5.9
+Neighbor list builds = 128
+Integration steps = 1000
+CPUs = 40 CPU time per CPU = 39.55000
+rm: cannot remove ‘/tmp/1099257.1.Parallel.q/rsh’: No such file or directory
